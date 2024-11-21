@@ -1,8 +1,17 @@
 # MSA
 
-## MSA란
-작은 소규모 서비스가 결합    
-느슨한 결합
+# 환경 설정
+## Jdk 설치
+
+## Maven 설치
+- https://maven.apache.org/
+- zip 압축 해제 후 /bin 폴더로 환경설정
+- mvn -version을 통해 설치 확인
+
+
+
+  
+
 
 # Kafka의 활용
 Kafka는 실시간 데이터 스트리밍과 분산 처리가 필요한 다양한 분야에서 사용됩니다. 
